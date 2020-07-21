@@ -1,0 +1,80 @@
+/*--------------------------------------fondos---------------------------------------------*/
+    .fondoprincipal{
+    background-color:#121212;
+    }
+    .fondonegroclaro{
+    background-color: #242424;
+    }
+ 
+/*--------------------------------------H1 H2 ---------------------------------------------*/
+#invisible{
+    display: none;
+}
+h2{
+    color:#03A9F4;
+    font-size: 1.25rem;
+    }
+/*--------------------------------------Color tipografias---------------------------------------------*/
+    .letraceleste{
+    color:#03A9F4;
+    }
+
+    /********************************** MENU ***********************************************************/
+    .menu_item{
+        color:#B3E5FC;
+        font-family: 'Roboto', sans-serif;
+    }
+    .menu_item:hover{
+        color:#B3E5FC;
+        background-color: #03A9F4;
+    }
+    .logo{
+        position: absolute;
+        text-align: center;
+        }
+    /********************************** BOTONES ***********************************************************/
+    .boton_color{
+        color: #242424;
+        background-color:#03A9F4;
+        font-family: 'Roboto', sans-serif;
+    }
+    .boton_color:hover{
+        color:#03A9F4;
+        background-color: #B3E5FC;
+    }
+    .boton_color_inv{
+        color: white;
+        background-color: #121212;
+        
+    }
+    .boton_color_inv:hover{
+        color:#03A9F4;
+
+    }
+    .boton_gris{
+        color: white;
+        background-color: #242424;
+    }
+    .boton_gris:hover{
+        color:#03A9F4;
+
+    }
+    .campeon{
+        color:#03A9F4;
+        
+    }
+    .campeon:hover{
+        color: white;
+    }
+/********************************** MARGIN ***********************************************************/
+.centradoelementos{
+    margin-left: auto;
+    margin-right: auto;
+}
+.estiloDeCarta{
+    width: 18rem;
+}
+.menumargen{
+    margin-top: 3.5rem;
+}
+
